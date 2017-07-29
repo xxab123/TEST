@@ -9,3 +9,5 @@ then
 fi
 
 find $1 -type f -exec rm -rf {} \;
+
+exit 0
