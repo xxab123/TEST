@@ -1,6 +1,6 @@
 #! /bin/bash
 #
-#Lzj 哈哈哈uu
+#Lzj lizejiang
 #
 
 if [ $# -ne 1 ]
