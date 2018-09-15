@@ -10,5 +10,6 @@ fi
 
 find $1 -type f -exec rm -rf {} \;
 echo "aaaaaaaaa"
+echo "bbbb"
 
 exit 0
